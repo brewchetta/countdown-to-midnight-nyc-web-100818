@@ -1,6 +1,6 @@
 #write your code here
 
 def countdown(number)
-  i = 
+  puts ""
   while
 end
